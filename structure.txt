@@ -1,0 +1,1218 @@
+Folder PATH listing
+Volume serial number is A261-3EF2
+C:.
+¦   .env
+¦   appointment_notifier.php
+¦   change_password.php
+¦   conn.php
+¦   create_new_caregiver.php
+¦   Elderlycare.sql
+¦   ElderlyCare.zip
+¦   forgot_password.php
+¦   idle-logout.js
+¦   index.php
+¦   logout.php
+¦   process.php
+¦   reset_pass_process.php
+¦   structure.txt
+¦   testmail.php
+¦   verify_code.php
+¦   
++---assets
+¦   +---css
+¦   ¦       loginstyle.css
+¦   ¦       style.css
+¦   ¦       
+¦   +---img
+¦   ¦       apple-touch-icon.png
+¦   ¦       card.jpg
+¦   ¦       dan.jpg
+¦   ¦       favicon.png
+¦   ¦       iconlogo.jpg
+¦   ¦       internet.png
+¦   ¦       loginlogo.jpg
+¦   ¦       loginlogo.png.jpg
+¦   ¦       loginlogo1.jpg
+¦   ¦       loginlogo3.jpg
+¦   ¦       logo.jpg
+¦   ¦       logo.png
+¦   ¦       logo1.png
+¦   ¦       logo2.jpg
+¦   ¦       logo2.png
+¦   ¦       logofinal.jpg
+¦   ¦       logologin2.jpg
+¦   ¦       messages-1.jpg
+¦   ¦       messages-2.jpg
+¦   ¦       messages-3.jpg
+¦   ¦       news-1.jpg
+¦   ¦       news-2.jpg
+¦   ¦       news-3.jpg
+¦   ¦       news-4.jpg
+¦   ¦       news-5.jpg
+¦   ¦       not-found.svg
+¦   ¦       product-1.jpg
+¦   ¦       product-2.jpg
+¦   ¦       product-3.jpg
+¦   ¦       product-4.jpg
+¦   ¦       product-5.jpg
+¦   ¦       profile-img.jpg
+¦   ¦       slides-1.jpg
+¦   ¦       slides-2.jpg
+¦   ¦       slides-3.jpg
+¦   ¦       
+¦   +---js
+¦   ¦       loginpage.js
+¦   ¦       main.js
+¦   ¦       
+¦   +---vendor
+¦       +---apexcharts
+¦       ¦   ¦   apexcharts.amd.js
+¦       ¦   ¦   apexcharts.common.js
+¦       ¦   ¦   apexcharts.css
+¦       ¦   ¦   apexcharts.esm.js
+¦       ¦   ¦   apexcharts.js
+¦       ¦   ¦   apexcharts.min.js
+¦       ¦   ¦   
+¦       ¦   +---locales
+¦       ¦           ar.json
+¦       ¦           be-cyrl.json
+¦       ¦           be-latn.json
+¦       ¦           ca.json
+¦       ¦           cs.json
+¦       ¦           da.json
+¦       ¦           de.json
+¦       ¦           el.json
+¦       ¦           en.json
+¦       ¦           es.json
+¦       ¦           et.json
+¦       ¦           fa.json
+¦       ¦           fi.json
+¦       ¦           fr.json
+¦       ¦           he.json
+¦       ¦           hi.json
+¦       ¦           hr.json
+¦       ¦           hu.json
+¦       ¦           hy.json
+¦       ¦           id.json
+¦       ¦           it.json
+¦       ¦           ja.json
+¦       ¦           ka.json
+¦       ¦           ko.json
+¦       ¦           lt.json
+¦       ¦           lv.json
+¦       ¦           ms.json
+¦       ¦           nb.json
+¦       ¦           nl.json
+¦       ¦           pl.json
+¦       ¦           pt-br.json
+¦       ¦           pt.json
+¦       ¦           rs.json
+¦       ¦           ru.json
+¦       ¦           se.json
+¦       ¦           sk.json
+¦       ¦           sl.json
+¦       ¦           sq.json
+¦       ¦           th.json
+¦       ¦           tr.json
+¦       ¦           ua.json
+¦       ¦           vi.json
+¦       ¦           zh-cn.json
+¦       ¦           zh-tw.json
+¦       ¦           
+¦       +---bootstrap
+¦       ¦   +---css
+¦       ¦   ¦       bootstrap-grid.css
+¦       ¦   ¦       bootstrap-grid.css.map
+¦       ¦   ¦       bootstrap-grid.min.css
+¦       ¦   ¦       bootstrap-grid.min.css.map
+¦       ¦   ¦       bootstrap-grid.rtl.css
+¦       ¦   ¦       bootstrap-grid.rtl.css.map
+¦       ¦   ¦       bootstrap-grid.rtl.min.css
+¦       ¦   ¦       bootstrap-grid.rtl.min.css.map
+¦       ¦   ¦       bootstrap-reboot.css
+¦       ¦   ¦       bootstrap-reboot.css.map
+¦       ¦   ¦       bootstrap-reboot.min.css
+¦       ¦   ¦       bootstrap-reboot.min.css.map
+¦       ¦   ¦       bootstrap-reboot.rtl.css
+¦       ¦   ¦       bootstrap-reboot.rtl.css.map
+¦       ¦   ¦       bootstrap-reboot.rtl.min.css
+¦       ¦   ¦       bootstrap-reboot.rtl.min.css.map
+¦       ¦   ¦       bootstrap-utilities.css
+¦       ¦   ¦       bootstrap-utilities.css.map
+¦       ¦   ¦       bootstrap-utilities.min.css
+¦       ¦   ¦       bootstrap-utilities.min.css.map
+¦       ¦   ¦       bootstrap-utilities.rtl.css
+¦       ¦   ¦       bootstrap-utilities.rtl.css.map
+¦       ¦   ¦       bootstrap-utilities.rtl.min.css
+¦       ¦   ¦       bootstrap-utilities.rtl.min.css.map
+¦       ¦   ¦       bootstrap.css
+¦       ¦   ¦       bootstrap.css.map
+¦       ¦   ¦       bootstrap.min.css
+¦       ¦   ¦       bootstrap.min.css.map
+¦       ¦   ¦       bootstrap.rtl.css
+¦       ¦   ¦       bootstrap.rtl.css.map
+¦       ¦   ¦       bootstrap.rtl.min.css
+¦       ¦   ¦       bootstrap.rtl.min.css.map
+¦       ¦   ¦       prb.txt
+¦       ¦   ¦       
+¦       ¦   +---js
+¦       ¦           bootstrap.bundle.js
+¦       ¦           bootstrap.bundle.js.map
+¦       ¦           bootstrap.bundle.min.js
+¦       ¦           bootstrap.bundle.min.js.map
+¦       ¦           bootstrap.esm.js
+¦       ¦           bootstrap.esm.js.map
+¦       ¦           bootstrap.esm.min.js
+¦       ¦           bootstrap.esm.min.js.map
+¦       ¦           bootstrap.js
+¦       ¦           bootstrap.js.map
+¦       ¦           bootstrap.min.js
+¦       ¦           bootstrap.min.js.map
+¦       ¦           
+¦       +---bootstrap-icons
+¦       ¦   ¦   bootstrap-icons.css
+¦       ¦   ¦   bootstrap-icons.json
+¦       ¦   ¦   bootstrap-icons.min.css
+¦       ¦   ¦   bootstrap-icons.scss
+¦       ¦   ¦   
+¦       ¦   +---fonts
+¦       ¦           bootstrap-icons.woff
+¦       ¦           bootstrap-icons.woff2
+¦       ¦           
+¦       +---boxicons
+¦       ¦   +---css
+¦       ¦   ¦       animations.css
+¦       ¦   ¦       boxicons.css
+¦       ¦   ¦       boxicons.min.css
+¦       ¦   ¦       transformations.css
+¦       ¦   ¦       
+¦       ¦   +---fonts
+¦       ¦           boxicons.eot
+¦       ¦           boxicons.svg
+¦       ¦           boxicons.ttf
+¦       ¦           boxicons.woff
+¦       ¦           boxicons.woff2
+¦       ¦           
+¦       +---chart.js
+¦       ¦   ¦   chart.cjs
+¦       ¦   ¦   chart.cjs.map
+¦       ¦   ¦   chart.js
+¦       ¦   ¦   chart.js.map
+¦       ¦   ¦   chart.umd.js
+¦       ¦   ¦   chart.umd.js.map
+¦       ¦   ¦   helpers.cjs
+¦       ¦   ¦   helpers.cjs.map
+¦       ¦   ¦   helpers.js
+¦       ¦   ¦   helpers.js.map
+¦       ¦   ¦   index.d.ts
+¦       ¦   ¦   index.umd.d.ts
+¦       ¦   ¦   types.d.ts
+¦       ¦   ¦   
+¦       ¦   +---chunks
+¦       ¦   ¦       helpers.segment.cjs
+¦       ¦   ¦       helpers.segment.cjs.map
+¦       ¦   ¦       helpers.segment.js
+¦       ¦   ¦       helpers.segment.js.map
+¦       ¦   ¦       
+¦       ¦   +---controllers
+¦       ¦   ¦       controller.bar.d.ts
+¦       ¦   ¦       controller.bubble.d.ts
+¦       ¦   ¦       controller.doughnut.d.ts
+¦       ¦   ¦       controller.line.d.ts
+¦       ¦   ¦       controller.pie.d.ts
+¦       ¦   ¦       controller.polarArea.d.ts
+¦       ¦   ¦       controller.radar.d.ts
+¦       ¦   ¦       controller.scatter.d.ts
+¦       ¦   ¦       index.d.ts
+¦       ¦   ¦       
+¦       ¦   +---core
+¦       ¦   ¦       core.adapters.d.ts
+¦       ¦   ¦       core.animation.d.ts
+¦       ¦   ¦       core.animations.d.ts
+¦       ¦   ¦       core.animations.defaults.d.ts
+¦       ¦   ¦       core.animator.d.ts
+¦       ¦   ¦       core.config.d.ts
+¦       ¦   ¦       core.controller.d.ts
+¦       ¦   ¦       core.datasetController.d.ts
+¦       ¦   ¦       core.defaults.d.ts
+¦       ¦   ¦       core.element.d.ts
+¦       ¦   ¦       core.interaction.d.ts
+¦       ¦   ¦       core.layouts.d.ts
+¦       ¦   ¦       core.layouts.defaults.d.ts
+¦       ¦   ¦       core.plugins.d.ts
+¦       ¦   ¦       core.registry.d.ts
+¦       ¦   ¦       core.scale.autoskip.d.ts
+¦       ¦   ¦       core.scale.d.ts
+¦       ¦   ¦       core.scale.defaults.d.ts
+¦       ¦   ¦       core.ticks.d.ts
+¦       ¦   ¦       core.typedRegistry.d.ts
+¦       ¦   ¦       index.d.ts
+¦       ¦   ¦       
+¦       ¦   +---elements
+¦       ¦   ¦       element.arc.d.ts
+¦       ¦   ¦       element.bar.d.ts
+¦       ¦   ¦       element.line.d.ts
+¦       ¦   ¦       element.point.d.ts
+¦       ¦   ¦       index.d.ts
+¦       ¦   ¦       
+¦       ¦   +---helpers
+¦       ¦   ¦       helpers.canvas.d.ts
+¦       ¦   ¦       helpers.collection.d.ts
+¦       ¦   ¦       helpers.color.d.ts
+¦       ¦   ¦       helpers.config.d.ts
+¦       ¦   ¦       helpers.config.types.d.ts
+¦       ¦   ¦       helpers.core.d.ts
+¦       ¦   ¦       helpers.curve.d.ts
+¦       ¦   ¦       helpers.dom.d.ts
+¦       ¦   ¦       helpers.easing.d.ts
+¦       ¦   ¦       helpers.extras.d.ts
+¦       ¦   ¦       helpers.interpolation.d.ts
+¦       ¦   ¦       helpers.intl.d.ts
+¦       ¦   ¦       helpers.math.d.ts
+¦       ¦   ¦       helpers.options.d.ts
+¦       ¦   ¦       helpers.rtl.d.ts
+¦       ¦   ¦       helpers.segment.d.ts
+¦       ¦   ¦       index.d.ts
+¦       ¦   ¦       
+¦       ¦   +---platform
+¦       ¦   ¦       index.d.ts
+¦       ¦   ¦       platform.base.d.ts
+¦       ¦   ¦       platform.basic.d.ts
+¦       ¦   ¦       platform.dom.d.ts
+¦       ¦   ¦       
+¦       ¦   +---plugins
+¦       ¦   ¦   ¦   index.d.ts
+¦       ¦   ¦   ¦   plugin.colors.d.ts
+¦       ¦   ¦   ¦   plugin.decimation.d.ts
+¦       ¦   ¦   ¦   plugin.legend.d.ts
+¦       ¦   ¦   ¦   plugin.subtitle.d.ts
+¦       ¦   ¦   ¦   plugin.title.d.ts
+¦       ¦   ¦   ¦   plugin.tooltip.d.ts
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---plugin.filler
+¦       ¦   ¦           filler.drawing.d.ts
+¦       ¦   ¦           filler.helper.d.ts
+¦       ¦   ¦           filler.options.d.ts
+¦       ¦   ¦           filler.segment.d.ts
+¦       ¦   ¦           filler.target.d.ts
+¦       ¦   ¦           filler.target.stack.d.ts
+¦       ¦   ¦           index.d.ts
+¦       ¦   ¦           simpleArc.d.ts
+¦       ¦   ¦           
+¦       ¦   +---scales
+¦       ¦   ¦       index.d.ts
+¦       ¦   ¦       scale.category.d.ts
+¦       ¦   ¦       scale.linear.d.ts
+¦       ¦   ¦       scale.linearbase.d.ts
+¦       ¦   ¦       scale.logarithmic.d.ts
+¦       ¦   ¦       scale.radialLinear.d.ts
+¦       ¦   ¦       scale.time.d.ts
+¦       ¦   ¦       scale.timeseries.d.ts
+¦       ¦   ¦       
+¦       ¦   +---types
+¦       ¦           animation.d.ts
+¦       ¦           basic.d.ts
+¦       ¦           color.d.ts
+¦       ¦           geometric.d.ts
+¦       ¦           index.d.ts
+¦       ¦           layout.d.ts
+¦       ¦           utils.d.ts
+¦       ¦           
+¦       +---echarts
+¦       ¦   ¦   echarts.common.js
+¦       ¦   ¦   echarts.common.js.map
+¦       ¦   ¦   echarts.common.min.js
+¦       ¦   ¦   echarts.esm.js
+¦       ¦   ¦   echarts.esm.js.map
+¦       ¦   ¦   echarts.esm.min.js
+¦       ¦   ¦   echarts.esm.min.mjs
+¦       ¦   ¦   echarts.esm.mjs
+¦       ¦   ¦   echarts.esm.mjs.map
+¦       ¦   ¦   echarts.js
+¦       ¦   ¦   echarts.js.map
+¦       ¦   ¦   echarts.min.js
+¦       ¦   ¦   echarts.simple.js
+¦       ¦   ¦   echarts.simple.js.map
+¦       ¦   ¦   echarts.simple.min.js
+¦       ¦   ¦   package.json
+¦       ¦   ¦   
+¦       ¦   +---extension
+¦       ¦           bmap.js
+¦       ¦           bmap.js.map
+¦       ¦           bmap.min.js
+¦       ¦           dataTool.js
+¦       ¦           dataTool.js.map
+¦       ¦           dataTool.min.js
+¦       ¦           
+¦       +---php-email-form
+¦       ¦       validate.js
+¦       ¦       
+¦       +---quill
+¦       ¦       quill.bubble.css
+¦       ¦       quill.bubble.css.map
+¦       ¦       quill.core.css
+¦       ¦       quill.core.css.map
+¦       ¦       quill.core.js
+¦       ¦       quill.core.js.LICENSE.txt
+¦       ¦       quill.core.js.map
+¦       ¦       quill.js
+¦       ¦       quill.js.LICENSE.txt
+¦       ¦       quill.js.map
+¦       ¦       quill.snow.css
+¦       ¦       quill.snow.css.map
+¦       ¦       
+¦       +---remixicon
+¦       ¦       remixicon.css
+¦       ¦       remixicon.eot
+¦       ¦       remixicon.glyph.json
+¦       ¦       remixicon.less
+¦       ¦       remixicon.svg
+¦       ¦       remixicon.symbol.svg
+¦       ¦       remixicon.ttf
+¦       ¦       remixicon.woff
+¦       ¦       remixicon.woff2
+¦       ¦       
+¦       +---simple-datatables
+¦       ¦       simple-datatables.js
+¦       ¦       style.css
+¦       ¦       
+¦       +---tinymce
+¦           ¦   bower.json
+¦           ¦   CHANGELOG.md
+¦           ¦   composer.json
+¦           ¦   license.md
+¦           ¦   package.json
+¦           ¦   README.md
+¦           ¦   tinymce.d.ts
+¦           ¦   tinymce.js
+¦           ¦   tinymce.min.js
+¦           ¦   
+¦           +---icons
+¦           ¦   +---default
+¦           ¦           icons.js
+¦           ¦           icons.min.js
+¦           ¦           index.js
+¦           ¦           
+¦           +---models
+¦           ¦   +---dom
+¦           ¦           index.js
+¦           ¦           model.js
+¦           ¦           model.min.js
+¦           ¦           
+¦           +---plugins
+¦           ¦   +---accordion
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---advlist
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---anchor
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---autolink
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---autoresize
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---autosave
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---charmap
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---code
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---codesample
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---directionality
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---emoticons
+¦           ¦   ¦   ¦   index.js
+¦           ¦   ¦   ¦   plugin.js
+¦           ¦   ¦   ¦   plugin.min.js
+¦           ¦   ¦   ¦   
+¦           ¦   ¦   +---js
+¦           ¦   ¦           emojiimages.js
+¦           ¦   ¦           emojiimages.min.js
+¦           ¦   ¦           emojis.js
+¦           ¦   ¦           emojis.min.js
+¦           ¦   ¦           
+¦           ¦   +---fullscreen
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---help
+¦           ¦   ¦   ¦   index.js
+¦           ¦   ¦   ¦   plugin.js
+¦           ¦   ¦   ¦   plugin.min.js
+¦           ¦   ¦   ¦   
+¦           ¦   ¦   +---js
+¦           ¦   ¦       +---i18n
+¦           ¦   ¦           +---keynav
+¦           ¦   ¦                   ar.js
+¦           ¦   ¦                   bg_BG.js
+¦           ¦   ¦                   ca.js
+¦           ¦   ¦                   cs.js
+¦           ¦   ¦                   da.js
+¦           ¦   ¦                   de.js
+¦           ¦   ¦                   el.js
+¦           ¦   ¦                   en.js
+¦           ¦   ¦                   es.js
+¦           ¦   ¦                   eu.js
+¦           ¦   ¦                   fa.js
+¦           ¦   ¦                   fi.js
+¦           ¦   ¦                   fr_FR.js
+¦           ¦   ¦                   he_IL.js
+¦           ¦   ¦                   hi.js
+¦           ¦   ¦                   hr.js
+¦           ¦   ¦                   hu_HU.js
+¦           ¦   ¦                   id.js
+¦           ¦   ¦                   it.js
+¦           ¦   ¦                   ja.js
+¦           ¦   ¦                   kk.js
+¦           ¦   ¦                   ko_KR.js
+¦           ¦   ¦                   ms.js
+¦           ¦   ¦                   nb_NO.js
+¦           ¦   ¦                   nl.js
+¦           ¦   ¦                   pl.js
+¦           ¦   ¦                   pt_BR.js
+¦           ¦   ¦                   pt_PT.js
+¦           ¦   ¦                   ro.js
+¦           ¦   ¦                   ru.js
+¦           ¦   ¦                   sk.js
+¦           ¦   ¦                   sl_SI.js
+¦           ¦   ¦                   sv_SE.js
+¦           ¦   ¦                   th_TH.js
+¦           ¦   ¦                   tr.js
+¦           ¦   ¦                   uk.js
+¦           ¦   ¦                   vi.js
+¦           ¦   ¦                   zh_CN.js
+¦           ¦   ¦                   zh_TW.js
+¦           ¦   ¦                   
+¦           ¦   +---image
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---importcss
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---insertdatetime
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---link
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---lists
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---media
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---nonbreaking
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---pagebreak
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---preview
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---quickbars
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---save
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---searchreplace
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---table
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---visualblocks
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---visualchars
+¦           ¦   ¦       index.js
+¦           ¦   ¦       plugin.js
+¦           ¦   ¦       plugin.min.js
+¦           ¦   ¦       
+¦           ¦   +---wordcount
+¦           ¦           index.js
+¦           ¦           plugin.js
+¦           ¦           plugin.min.js
+¦           ¦           
+¦           +---skins
+¦           ¦   +---content
+¦           ¦   ¦   +---dark
+¦           ¦   ¦   ¦       content.css
+¦           ¦   ¦   ¦       content.js
+¦           ¦   ¦   ¦       content.min.css
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---default
+¦           ¦   ¦   ¦       content.css
+¦           ¦   ¦   ¦       content.js
+¦           ¦   ¦   ¦       content.min.css
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---document
+¦           ¦   ¦   ¦       content.css
+¦           ¦   ¦   ¦       content.js
+¦           ¦   ¦   ¦       content.min.css
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---tinymce-5
+¦           ¦   ¦   ¦       content.css
+¦           ¦   ¦   ¦       content.js
+¦           ¦   ¦   ¦       content.min.css
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---tinymce-5-dark
+¦           ¦   ¦   ¦       content.css
+¦           ¦   ¦   ¦       content.js
+¦           ¦   ¦   ¦       content.min.css
+¦           ¦   ¦   ¦       
+¦           ¦   ¦   +---writer
+¦           ¦   ¦           content.css
+¦           ¦   ¦           content.js
+¦           ¦   ¦           content.min.css
+¦           ¦   ¦           
+¦           ¦   +---ui
+¦           ¦       +---oxide
+¦           ¦       ¦       content.css
+¦           ¦       ¦       content.inline.css
+¦           ¦       ¦       content.inline.js
+¦           ¦       ¦       content.inline.min.css
+¦           ¦       ¦       content.js
+¦           ¦       ¦       content.min.css
+¦           ¦       ¦       skin.css
+¦           ¦       ¦       skin.js
+¦           ¦       ¦       skin.min.css
+¦           ¦       ¦       skin.shadowdom.css
+¦           ¦       ¦       skin.shadowdom.js
+¦           ¦       ¦       skin.shadowdom.min.css
+¦           ¦       ¦       
+¦           ¦       +---oxide-dark
+¦           ¦       ¦       content.css
+¦           ¦       ¦       content.inline.css
+¦           ¦       ¦       content.inline.js
+¦           ¦       ¦       content.inline.min.css
+¦           ¦       ¦       content.js
+¦           ¦       ¦       content.min.css
+¦           ¦       ¦       skin.css
+¦           ¦       ¦       skin.js
+¦           ¦       ¦       skin.min.css
+¦           ¦       ¦       skin.shadowdom.css
+¦           ¦       ¦       skin.shadowdom.js
+¦           ¦       ¦       skin.shadowdom.min.css
+¦           ¦       ¦       
+¦           ¦       +---tinymce-5
+¦           ¦       ¦       content.css
+¦           ¦       ¦       content.inline.css
+¦           ¦       ¦       content.inline.js
+¦           ¦       ¦       content.inline.min.css
+¦           ¦       ¦       content.js
+¦           ¦       ¦       content.min.css
+¦           ¦       ¦       skin.css
+¦           ¦       ¦       skin.js
+¦           ¦       ¦       skin.min.css
+¦           ¦       ¦       skin.shadowdom.css
+¦           ¦       ¦       skin.shadowdom.js
+¦           ¦       ¦       skin.shadowdom.min.css
+¦           ¦       ¦       
+¦           ¦       +---tinymce-5-dark
+¦           ¦               content.css
+¦           ¦               content.inline.css
+¦           ¦               content.inline.js
+¦           ¦               content.inline.min.css
+¦           ¦               content.js
+¦           ¦               content.min.css
+¦           ¦               skin.css
+¦           ¦               skin.js
+¦           ¦               skin.min.css
+¦           ¦               skin.shadowdom.css
+¦           ¦               skin.shadowdom.js
+¦           ¦               skin.shadowdom.min.css
+¦           ¦               
+¦           +---themes
+¦               +---silver
+¦                       index.js
+¦                       theme.js
+¦                       theme.min.js
+¦                       
++---templates
+¦   +---admin
+¦   ¦   ¦   add_patients.php
+¦   ¦   ¦   AdminDashboard.php
+¦   ¦   ¦   adminLogin.php
+¦   ¦   ¦   admin_profile.php
+¦   ¦   ¦   caregiver_account_request.php
+¦   ¦   ¦   conn.php
+¦   ¦   ¦   manage_caregivers.php
+¦   ¦   ¦   manage_patients.php
+¦   ¦   ¦   manage_rooms.php
+¦   ¦   ¦   patients_request.php
+¦   ¦   ¦   process.php
+¦   ¦   ¦   view_reports.php
+¦   ¦   ¦   
+¦   ¦   +---uploads
+¦   ¦       +---admin
+¦   ¦       ¦       1746552319_m.png
+¦   ¦       ¦       1746552343_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦       ¦       1746552539_m.png
+¦   ¦       ¦       1746552557_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦       ¦       1746553455_6543820.png
+¦   ¦       ¦       1746553504_6543820.png
+¦   ¦       ¦       1746553527_m.png
+¦   ¦       ¦       1746553584_m.png
+¦   ¦       ¦       1746553772_m.png
+¦   ¦       ¦       1746553880_91975801-guy-in-laptop-icon-vector-illustration-graphic-design-removebg-preview.png
+¦   ¦       ¦       1746555324_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦       ¦       1746599077_owner.png
+¦   ¦       ¦       1750329349_Screenshot (1).png
+¦   ¦       ¦       1753777847_IMG_20250402_173933.jpg
+¦   ¦       ¦       1756240392_IMG_20250826_131500_9.jpg
+¦   ¦       ¦       istockphoto-1405480098-612x612.jpg
+¦   ¦       ¦       owner.png
+¦   ¦       ¦       
+¦   ¦       +---patients
+¦   ¦               1746467329_6818fa010affa_490996848_1805854656872406_7578723554937496362_n.jpg
+¦   ¦               1746467346_6818fa1294239_490996848_1805854656872406_7578723554937496362_n.jpg
+¦   ¦               1746467796_6818fbd4592ba_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746468674_6818ff4273db4_owner.png
+¦   ¦               1746468970_6819006a9ab2f_owner.png
+¦   ¦               1746472477_68190e1d047a8_3280979.png
+¦   ¦               1746524306_6819d8923393b_IMG_20250402_173933.jpg
+¦   ¦               1746524382_6819d8de1b9d1_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746599836_681aff9c29a77_IMG_20250402_173918.jpg
+¦   ¦               1746679096_681c3538c1c14_istockphoto-1405480098-612x612.jpg
+¦   ¦               1748176900_6833100434b3c_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1748176963_6833104321284_,a.jpg
+¦   ¦               1748177736_68331348b89b9_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1749454478_68468e8e064ac_Screenshot 2025-02-03 185006.png
+¦   ¦               1750341094_685415e6aeffb_Screenshot (1).png
+¦   ¦               1750341248_68541680833c5_Screenshot 2025-02-03 145545.png
+¦   ¦               1753774544_688879d0ee28c_owner.png
+¦   ¦               1754128958_688de23e669d2_IMG_20250402_173918.jpg
+¦   ¦               1754128998_688de2660c62c_IMG_20250402_173933.jpg
+¦   ¦               1754129052_688de29ca03c4_IMG_20250402_172320.jpg
+¦   ¦               1754129086_688de2bed63c8_IMG_20250402_173933.jpg
+¦   ¦               1754714048_6896cfc0a1d66_IMG_20250402_173932_1.jpg
+¦   ¦               
+¦   +---caregiver
+¦   ¦   ¦   add_patient.php
+¦   ¦   ¦   appointments.php
+¦   ¦   ¦   CaregiverDashboard.php
+¦   ¦   ¦   caregiver_dbconnection.php
+¦   ¦   ¦   caregiver_process.php
+¦   ¦   ¦   caregiver_profile.php
+¦   ¦   ¦   medication_notification.php
+¦   ¦   ¦   messages.php
+¦   ¦   ¦   password_verify.php
+¦   ¦   ¦   patients_list.php
+¦   ¦   ¦   patients_profile.php
+¦   ¦   ¦   task_and_notes.php
+¦   ¦   ¦   userLogin.php
+¦   ¦   ¦   vital_signs.php
+¦   ¦   ¦   
+¦   ¦   +---uploads
+¦   ¦       ¦   1746471794_68190b726e70a_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦       ¦   
+¦   ¦       +---patients
+¦   ¦               1739276420_67ab40844164e_Screenshot 2025-02-04 165806.png
+¦   ¦               1739276568_67ab41183e41b_Screenshot 2025-02-03 185006.png
+¦   ¦               1739280905_67ab520928b76_Screenshot 2025-02-04 181901.png
+¦   ¦               1739281099_67ab52cbe9d16_475196230_962943962121321_2698940666878693100_n.jpg
+¦   ¦               1739282589_67ab589d301aa_SlideEgg_13057-Agile Scrum PowerPoint Presentation.jpg
+¦   ¦               1739319502_67abe8ce280cc_475196230_962943962121321_2698940666878693100_n.jpg
+¦   ¦               1745996807_6811cc0768ae7_m.png
+¦   ¦               1745997092_6811cd2477c41_Screenshot (1).png
+¦   ¦               1746001250_6811dd6212a87_Screenshot 2025-02-03 145545.png
+¦   ¦               1746001303_6811dd97d3736_Screenshot 2025-02-03 145545.png
+¦   ¦               1746001476_6811de443a728_Screenshot 2025-02-03 183037.png
+¦   ¦               1746001542_6811de862e2d4_Screenshot 2025-02-03 183037.png
+¦   ¦               1746003384_6811e5b806fc9_Screenshot 2025-02-04 185246.png
+¦   ¦               1746009060_6811fbe4355e9_Screenshot (5).png
+¦   ¦               1746034305_68125e81866e0_m.png
+¦   ¦               1746035447_681262f74ec9e_Screenshot (4).png
+¦   ¦               1746167243_681465cba0d9a_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746169221_,a.jpg
+¦   ¦               1746170700_6814734cadb4d_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746170767_490996848_1805854656872406_7578723554937496362_n.jpg
+¦   ¦               1746183440_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746195184_6814d2f0ad879_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746198662_6814e086af5bd_IMG_20250402_173918.jpg
+¦   ¦               1746199627_6814e44b3ec9e_,a.jpg
+¦   ¦               1746200241_6814e6b190221_IMG_20250402_172320.jpg
+¦   ¦               1746200492_6814e7ac3e2aa_IMG_20250402_173933.jpg
+¦   ¦               1746200570_6814e7faec6e5_IMG_20250402_173933.jpg
+¦   ¦               1746201130_6814ea2ae3a04_dfd.drawio.png
+¦   ¦               1746201330_6814eaf2be0bd_Level 0 (1).png
+¦   ¦               1746201923_6814ed43890f6_IMG_20250402_173932_1.jpg
+¦   ¦               1746202342_6814eee6acca2_IMG_20250402_173933.jpg
+¦   ¦               1746203520_6814f3808bb5a_FinalLevel2.drawio.png
+¦   ¦               1746207451_681502dbe8647_IMG_20250402_173933.jpg
+¦   ¦               1746207468_681502ecf2b69_IMG_20250402_173933.jpg
+¦   ¦               1746207532_6815032c28ce9_FinalLevel1.drawio.png
+¦   ¦               1746207540_681503340ad7b_FinalLevel1.drawio.png
+¦   ¦               1746207588_681503645077d_Level3.drawio.png
+¦   ¦               1746207667_681503b32a6ee_noxlevel1.jpg
+¦   ¦               1746208102_6815056677771_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746208203_681505cb438c1_IMG_20250402_173933.jpg
+¦   ¦               1746208337_68150651665b6_IMG_20250402_173933.jpg
+¦   ¦               1746208594_68150752a07f1_IMG_20250402_172320.jpg
+¦   ¦               1746209499_68150adbec292_IMG_20250402_173932_1.jpg
+¦   ¦               1746209872_68150c5045bd3_IMG_20250402_173932_1.jpg
+¦   ¦               1746210175_68150d7f68a75_IMG_20250402_173933.jpg
+¦   ¦               1746453435_6818c3bba39cd_m.png
+¦   ¦               1746453633_6818c4811345c_m.png
+¦   ¦               1746469352_681901e8c3d3e_istockphoto-1405480098-612x612-removebg-preview.png
+¦   ¦               1746474683_681916bb1a4cc_IMG_20250402_173933.jpg
+¦   ¦               1746477693_6819227d02777_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1746521776_6819ceb0a7194_m.png
+¦   ¦               1746522402_6819d12212a95_istockphoto-1405480098-612x612.jpg
+¦   ¦               1746522533_6819d1a524724_Filsha (1).png
+¦   ¦               1746522718_6819d25eaa895_9214646c-feb9-48c7-9754-62f2475255c2.jpg
+¦   ¦               1746522770_6819d292370dc_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1746522943_6819d33f9696f_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746523353_6819d4d9b8981_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746523626_6819d5eaa4e55_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1746525120_6819dbc09bce8_IMG_20250402_173933.jpg
+¦   ¦               1746525169_6819dbf1f33a9_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1746525624_6819ddb819b29_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1746525665_6819dde1e6268_IMG_20250402_172320.jpg
+¦   ¦               1746525723_6819de1bb418d_IMG_20250402_173932_1.jpg
+¦   ¦               1746537976_681a0df86c050_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1746539077_681a1245e67f9_IMG_20250402_173918.jpg
+¦   ¦               1746599245_681afd4de33af_IMG_20250402_172320.jpg
+¦   ¦               1746599965_91975801-guy-in-laptop-icon-vector-illustration-graphic-design.jpg
+¦   ¦               1746679393_681c3661d1e37_owner.png
+¦   ¦               1746759589_681d6fa5803ed_487780399_1351220412798464_384318734409775898_n.jpg
+¦   ¦               1748172120_6832fd588d31d_IMG_20250402_172320.jpg
+¦   ¦               1748172916_683300747cf42_IMG_20250402_172320.jpg
+¦   ¦               1748173400_68330258d7f57_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1748173835_6833040bbb4f4_IMG_20250402_173933.jpg
+¦   ¦               1748173980_6833049ce9fbc_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1748174164_683305541aa8b_IMG_20250402_173932_1.jpg
+¦   ¦               1748176028_68330c9c2dbc1_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1748176417_68330e2103dab_IMG_20250402_173933.jpg
+¦   ¦               1748176586_68330ecad22d1_IMG_20250402_172320.jpg
+¦   ¦               1748176689_68330f312b5f7_IMG_20250402_173933.jpg
+¦   ¦               1749096335_6841178fd9f5c_Screenshot 2025-02-03 145545.png
+¦   ¦               1749448032_6846756097e92_Screenshot 2025-02-03 145545.png
+¦   ¦               1749953991_684e2dc77556f_Screenshot 2025-05-28 162950.png
+¦   ¦               1749954027_684e2deb816db_Screenshot 2025-05-28 162950.png
+¦   ¦               1749956708_684e3864ed1da_Screenshot 2025-02-03 145545.png
+¦   ¦               1749957095_684e39e72386a_Screenshot 2025-02-03 183037.png
+¦   ¦               1749957423_684e3b2f58bac_Screenshot 2025-02-03 183111.png
+¦   ¦               1749958202_684e3e3aa3517_Screenshot 2025-02-04 182659.png
+¦   ¦               1749958933_684e4115e0c0e_Screenshot 2025-02-03 183101.png
+¦   ¦               1749959659_684e43ebd3f40_Screenshot 2025-02-03 183124.png
+¦   ¦               1749959765_684e44559265d_Screenshot 2025-02-03 183101.png
+¦   ¦               1749960105_684e45a989062_Screenshot 2025-02-03 183124.png
+¦   ¦               1749960671_684e47df60aaa_Screenshot 2025-02-03 183124.png
+¦   ¦               1749976690_684e86722a6bd_Screenshot 2025-02-03 183111.png
+¦   ¦               1749977120_684e88201da19_Screenshot 2025-02-03 183111.png
+¦   ¦               1750335834_6854015a33185_Screenshot 2025-02-03 183037.png
+¦   ¦               1750337952_Screenshot 2025-02-03 145545.png
+¦   ¦               1750338795_68540ceb75b51_Screenshot 2025-02-03 183111.png
+¦   ¦               1750338843_68540d1bb7e87_Screenshot 2025-02-03 183124.png
+¦   ¦               1750339150_68540e4e1691e_Screenshot 2025-02-03 183101.png
+¦   ¦               1750339256_68540eb846e6d_Screenshot (4).png
+¦   ¦               1750339327_68540eff6c5b8_Screenshot 2025-02-03 183111.png
+¦   ¦               1750339660_6854104cb1f0a_Screenshot 2025-02-03 145545.png
+¦   ¦               1750340460_6854136ca0d77_Screenshot (1).png
+¦   ¦               1753778450_IMG_20250402_173933.jpg
+¦   ¦               1754712090_6896c81a456ee_487351798_690025843461411_3441525949301797519_n.jpg
+¦   ¦               1754902963_6899b1b346c4e_sad-aesthetic-desktop-10glczufce0hgv1v.jpg
+¦   ¦               1754932084_689a237431957_IMG_20250402_173932_1.jpg
+¦   ¦               1754940148_689a42f41a076_IMG_20250402_173918.jpg
+¦   ¦               1754940196_689a4324edc82_IMG_20250402_173918.jpg
+¦   ¦               1754941426_689a47f2b0d2f_IMG_20250402_173918.jpg
+¦   ¦               1754941903_689a49cfb1b72_IMG_20250402_173918.jpg
+¦   ¦               1754942431_689a4bdf38942_IMG_20250402_173932_1.jpg
+¦   ¦               1754942497_689a4c21452c1_IMG_20250402_173932_1.jpg
+¦   ¦               1754942560_689a4c60ded5b_IMG_20250402_173932_1.jpg
+¦   ¦               1754942626_689a4ca2e708b_IMG_20250402_173932_1.jpg
+¦   ¦               1754942854_689a4d8650129_IMG_20250402_173932_1.jpg
+¦   ¦               1754943227_689a4efbbc8c4_IMG_20250402_173918.jpg
+¦   ¦               1754943538_689a50324417e_IMG_20250402_173932_1.jpg
+¦   ¦               1754945913_689a597988aec_IMG_20250402_173932_1.jpg
+¦   ¦               1754946058_689a5a0a7f75d_IMG_20250402_173932_1.jpg
+¦   ¦               1754946334_689a5b1ea5628_IMG_20250402_173932_1.jpg
+¦   ¦               1754948152_689a62381b69b_IMG_20250402_173918.jpg
+¦   ¦               1754948414_689a633e60c40_IMG_20250402_173918.jpg
+¦   ¦               1754948818_689a64d2d26e1_IMG_20250402_173932_1.jpg
+¦   ¦               1754948926_689a653ed87df_IMG_20250402_173918.jpg
+¦   ¦               1754948959_689a655f5b67b_IMG_20250402_173932_1.jpg
+¦   ¦               1754949336_689a66d8e7fa1_IMG_20250402_173918.jpg
+¦   ¦               1754954580_689a7b5465084_IMG_20250402_173933.jpg
+¦   ¦               1754984737_689af121801d3_IMG_20250402_173918.jpg
+¦   ¦               1754988784_689b00f003c86_IMG_20250402_172320.jpg
+¦   ¦               1754996334_689b1e6e3a326_IMG_20250402_173932_1.jpg
+¦   ¦               1754996358_689b1e86171ba_IMG_20250402_173932_1.jpg
+¦   ¦               1754997639_689b23878096f_IMG_20250402_173932_1.jpg
+¦   ¦               1755010648_689b565862a88_IMG_20250402_173932_1.jpg
+¦   ¦               1755011234_689b58a2501c0_IMG_20250402_173918.jpg
+¦   ¦               1755011978_689b5b8a46a5d_IMG_20250402_173918.jpg
+¦   ¦               1755017463_689b70f7e25bc_IMG_20250402_173918.jpg
+¦   ¦               1755027313_689b977119f14_IMG_20250402_173918.jpg
+¦   ¦               1755027560_689b9868ac388_IMG_20250402_173932_1.jpg
+¦   ¦               1755027609_689b98996a242_IMG_20250402_173932_1.jpg
+¦   ¦               1755027614_689b989eb7dbb_IMG_20250402_173932_1.jpg
+¦   ¦               1755027635_689b98b3322a6_IMG_20250402_173918.jpg
+¦   ¦               1755027641_689b98b9d087d_IMG_20250402_173918.jpg
+¦   ¦               1755027676_689b98dc97826_IMG_20250402_173918.jpg
+¦   ¦               1755027771_689b993b22c57_IMG_20250402_173932_1.jpg
+¦   ¦               1755027877_689b99a5b221c_IMG_20250402_173918.jpg
+¦   ¦               1755027985_689b9a11a0755_IMG_20250402_173918.jpg
+¦   ¦               1755028060_689b9a5caed49_IMG_20250402_173918.jpg
+¦   ¦               1755028824_689b9d5803e2a_IMG_20250402_173932_1.jpg
+¦   ¦               1755029251_689b9f03baacf_IMG_20250402_173932_1.jpg
+¦   ¦               1755029495_689b9ff74918f_IMG_20250402_173918.jpg
+¦   ¦               1755029751_689ba0f771f73_IMG_20250402_173932_1.jpg
+¦   ¦               1755029787_689ba11be1813_IMG_20250402_173918.jpg
+¦   ¦               1755029827_689ba1436f3ce_IMG_20250402_173918.jpg
+¦   ¦               1755030194_689ba2b27a8b4_IMG_20250402_173918.jpg
+¦   ¦               1755030319_689ba32f5a040_IMG_20250402_173918.jpg
+¦   ¦               1755030518_689ba3f61859c_IMG_20250402_172320.jpg
+¦   ¦               1755030856_689ba548a2d20_IMG_20250402_173918.jpg
+¦   ¦               1755031279_689ba6ef19373_IMG_20250402_173918.jpg
+¦   ¦               1755031465_689ba7a93187e_IMG_20250402_173918.jpg
+¦   ¦               1755031622_689ba8462037d_IMG_20250402_173918.jpg
+¦   ¦               1755031739_689ba8bbdcbbc_IMG_20250402_173918.jpg
+¦   ¦               1755031795_689ba8f3627ff_IMG_20250402_173932_1.jpg
+¦   ¦               1755032125_689baa3dafb61_IMG_20250402_173932_1.jpg
+¦   ¦               1755032351_689bab1f56ecd_IMG_20250402_173918.jpg
+¦   ¦               1755032483_689baba3cb2da_IMG_20250402_173933.jpg
+¦   ¦               1755032763_689bacbb5e600_IMG_20250402_173932_1.jpg
+¦   ¦               1755032817_689bacf157a05_IMG_20250402_173932_1.jpg
+¦   ¦               1755032892_689bad3cd7f61_IMG_20250402_173932_1.jpg
+¦   ¦               1755033303_689baed76f77a_IMG_20250402_173918.jpg
+¦   ¦               1755033333_689baef5773d7_IMG_20250402_173918.jpg
+¦   ¦               1755033403_689baf3bcd44f_IMG_20250402_173932_1.jpg
+¦   ¦               1755033512_689bafa896b36_IMG_20250402_173932_1.jpg
+¦   ¦               1755037093_689bbda511825_IMG_20250402_173918.jpg
+¦   ¦               1755038775_689bc4370f87a_IMG_20250402_172320.jpg
+¦   ¦               1755038839_689bc47760a96_IMG_20250402_173918.jpg
+¦   ¦               1755038922_689bc4ca8ef88_IMG_20250402_173932_1.jpg
+¦   ¦               1755038974_689bc4fed896e_IMG_20250402_173933.jpg
+¦   ¦               1755039293_689bc63dea00c_owner.png
+¦   ¦               1755055851_689c06eb16df0_caucasian-old-woman-vector-elderly-people-senior-person-isolated-cartoon-illustration-T7JNAF.jpg
+¦   ¦               1755056469_689c0955a031f_download.jpg
+¦   ¦               1755056736_689c0a6087bba_download (8).jpg
+¦   ¦               1755057064_689c0ba864272_download (8).jpg
+¦   ¦               1755057288_689c0c880ef49_download (7).jpg
+¦   ¦               1755068063_689c369f2a38e_gettyimages-1213840491-612x612.jpg
+¦   ¦               1755069510_689c3c468a75c_download (4).jpg
+¦   ¦               1755071144_689c42a8504a2_download (6).jpg
+¦   ¦               1755071802_689c453ac3aa4_gettyimages-1213840491-612x612.jpg
+¦   ¦               1755071924_689c45b4b384e_caucasian-old-woman-vector-elderly-people-senior-person-isolated-cartoon-illustration-T7JNAF.jpg
+¦   ¦               1755072046_689c462eaada4_download.jpg
+¦   ¦               1755072146_689c4692cecb8_download (8).jpg
+¦   ¦               1756131495_68ac70a75ba1f_download (2).jpg
+¦   ¦               1756132678_68ac754653592_caucasian-old-woman-vector-elderly-people-senior-person-isolated-cartoon-illustration-T7JNAF.jpg
+¦   ¦               1756137497_68ac8819f1188_caucasian-old-woman-vector-elderly-people-senior-person-isolated-cartoon-illustration-T7JNAF.jpg
+¦   ¦               1756137744_68ac89108f201_download (1).jpg
+¦   ¦               1756137794_68ac8942b902c_download.jpg
+¦   ¦               1756152132_68acc1440add2_download (7).jpg
+¦   ¦               1756155237_68accd655e3d3_download (1).jpg
+¦   ¦               1756155341_68accdcd44473_caucasian-old-woman-vector-elderly-people-senior-person-isolated-cartoon-illustration-T7JNAF.jpg
+¦   ¦               1756253576_IMG_20250827_053300_060.jpg
+¦   ¦               1757470666_68c0dfca44676_Screenshot_2025-09-07-03-40-15-96.jpg
+¦   ¦               1758698018_68d39a22cabf2_download (8).jpg
+¦   ¦               1758699511_68d39ff761a02_download (7).jpg
+¦   ¦               1758700221_68d3a2bd18974_download (2).jpg
+¦   ¦               1761536136_68fee88854cf3_ChatGPT Image Sep 4, 2025, 02_37_25 AM.png
+¦   ¦               475196230_962943962121321_2698940666878693100_n.jpg
+¦   ¦               
+¦   +---relatives
+¦       ¦   change_password.php
+¦       ¦   conn.php
+¦       ¦   forgot_password.php
+¦       ¦   messages_relatives.php
+¦       ¦   process.php
+¦       ¦   rcp_process.php
+¦       ¦   relatives_dashboard.php
+¦       ¦   relatives_login.php
+¦       ¦   relatives_profile.php
+¦       ¦   verify_code.php
+¦       ¦   
+¦       +---uploads
+¦           +---relatives
+¦                   relative_1750330577.png
+¦                   relative_1753774672.jpg
+¦                   relative_1754712446.jpg
+¦                   relative_1754932182.jpg
+¦                   
++---vendor
+    ¦   autoload.php
+    ¦   
+    +---composer
+    ¦       autoload_classmap.php
+    ¦       autoload_files.php
+    ¦       autoload_namespaces.php
+    ¦       autoload_psr4.php
+    ¦       autoload_real.php
+    ¦       autoload_static.php
+    ¦       ClassLoader.php
+    ¦       installed.json
+    ¦       installed.php
+    ¦       InstalledVersions.php
+    ¦       LICENSE
+    ¦       platform_check.php
+    ¦       
+    +---graham-campbell
+    ¦   +---result-type
+    ¦       ¦   composer.json
+    ¦       ¦   LICENSE
+    ¦       ¦   
+    ¦       +---src
+    ¦               Error.php
+    ¦               Result.php
+    ¦               Success.php
+    ¦               
+    +---phpmailer
+    ¦   +---phpmailer
+    ¦       ¦   COMMITMENT
+    ¦       ¦   composer.json
+    ¦       ¦   get_oauth_token.php
+    ¦       ¦   LICENSE
+    ¦       ¦   README.md
+    ¦       ¦   SECURITY.md
+    ¦       ¦   SMTPUTF8.md
+    ¦       ¦   VERSION
+    ¦       ¦   
+    ¦       +---language
+    ¦       ¦       phpmailer.lang-af.php
+    ¦       ¦       phpmailer.lang-ar.php
+    ¦       ¦       phpmailer.lang-as.php
+    ¦       ¦       phpmailer.lang-az.php
+    ¦       ¦       phpmailer.lang-ba.php
+    ¦       ¦       phpmailer.lang-be.php
+    ¦       ¦       phpmailer.lang-bg.php
+    ¦       ¦       phpmailer.lang-bn.php
+    ¦       ¦       phpmailer.lang-ca.php
+    ¦       ¦       phpmailer.lang-cs.php
+    ¦       ¦       phpmailer.lang-da.php
+    ¦       ¦       phpmailer.lang-de.php
+    ¦       ¦       phpmailer.lang-el.php
+    ¦       ¦       phpmailer.lang-eo.php
+    ¦       ¦       phpmailer.lang-es.php
+    ¦       ¦       phpmailer.lang-et.php
+    ¦       ¦       phpmailer.lang-fa.php
+    ¦       ¦       phpmailer.lang-fi.php
+    ¦       ¦       phpmailer.lang-fo.php
+    ¦       ¦       phpmailer.lang-fr.php
+    ¦       ¦       phpmailer.lang-gl.php
+    ¦       ¦       phpmailer.lang-he.php
+    ¦       ¦       phpmailer.lang-hi.php
+    ¦       ¦       phpmailer.lang-hr.php
+    ¦       ¦       phpmailer.lang-hu.php
+    ¦       ¦       phpmailer.lang-hy.php
+    ¦       ¦       phpmailer.lang-id.php
+    ¦       ¦       phpmailer.lang-it.php
+    ¦       ¦       phpmailer.lang-ja.php
+    ¦       ¦       phpmailer.lang-ka.php
+    ¦       ¦       phpmailer.lang-ko.php
+    ¦       ¦       phpmailer.lang-ku.php
+    ¦       ¦       phpmailer.lang-lt.php
+    ¦       ¦       phpmailer.lang-lv.php
+    ¦       ¦       phpmailer.lang-mg.php
+    ¦       ¦       phpmailer.lang-mn.php
+    ¦       ¦       phpmailer.lang-ms.php
+    ¦       ¦       phpmailer.lang-nb.php
+    ¦       ¦       phpmailer.lang-nl.php
+    ¦       ¦       phpmailer.lang-pl.php
+    ¦       ¦       phpmailer.lang-pt.php
+    ¦       ¦       phpmailer.lang-pt_br.php
+    ¦       ¦       phpmailer.lang-ro.php
+    ¦       ¦       phpmailer.lang-ru.php
+    ¦       ¦       phpmailer.lang-si.php
+    ¦       ¦       phpmailer.lang-sk.php
+    ¦       ¦       phpmailer.lang-sl.php
+    ¦       ¦       phpmailer.lang-sr.php
+    ¦       ¦       phpmailer.lang-sr_latn.php
+    ¦       ¦       phpmailer.lang-sv.php
+    ¦       ¦       phpmailer.lang-tl.php
+    ¦       ¦       phpmailer.lang-tr.php
+    ¦       ¦       phpmailer.lang-uk.php
+    ¦       ¦       phpmailer.lang-ur.php
+    ¦       ¦       phpmailer.lang-vi.php
+    ¦       ¦       phpmailer.lang-zh.php
+    ¦       ¦       phpmailer.lang-zh_cn.php
+    ¦       ¦       
+    ¦       +---src
+    ¦               DSNConfigurator.php
+    ¦               Exception.php
+    ¦               OAuth.php
+    ¦               OAuthTokenProvider.php
+    ¦               PHPMailer.php
+    ¦               POP3.php
+    ¦               SMTP.php
+    ¦               
+    +---phpoption
+    ¦   +---phpoption
+    ¦       ¦   composer.json
+    ¦       ¦   LICENSE
+    ¦       ¦   
+    ¦       +---src
+    ¦           +---PhpOption
+    ¦                   LazyOption.php
+    ¦                   None.php
+    ¦                   Option.php
+    ¦                   Some.php
+    ¦                   
+    +---symfony
+    ¦   +---polyfill-ctype
+    ¦   ¦       bootstrap.php
+    ¦   ¦       bootstrap80.php
+    ¦   ¦       composer.json
+    ¦   ¦       Ctype.php
+    ¦   ¦       LICENSE
+    ¦   ¦       README.md
+    ¦   ¦       
+    ¦   +---polyfill-mbstring
+    ¦   ¦   ¦   bootstrap.php
+    ¦   ¦   ¦   bootstrap80.php
+    ¦   ¦   ¦   composer.json
+    ¦   ¦   ¦   LICENSE
+    ¦   ¦   ¦   Mbstring.php
+    ¦   ¦   ¦   README.md
+    ¦   ¦   ¦   
+    ¦   ¦   +---Resources
+    ¦   ¦       +---unidata
+    ¦   ¦               caseFolding.php
+    ¦   ¦               lowerCase.php
+    ¦   ¦               titleCaseRegexp.php
+    ¦   ¦               upperCase.php
+    ¦   ¦               
+    ¦   +---polyfill-php80
+    ¦       ¦   bootstrap.php
+    ¦       ¦   composer.json
+    ¦       ¦   LICENSE
+    ¦       ¦   Php80.php
+    ¦       ¦   PhpToken.php
+    ¦       ¦   README.md
+    ¦       ¦   
+    ¦       +---Resources
+    ¦           +---stubs
+    ¦                   Attribute.php
+    ¦                   PhpToken.php
+    ¦                   Stringable.php
+    ¦                   UnhandledMatchError.php
+    ¦                   ValueError.php
+    ¦                   
+    +---vlucas
+        +---phpdotenv
+            ¦   composer.json
+            ¦   LICENSE
+            ¦   
+            +---src
+                ¦   Dotenv.php
+                ¦   Validator.php
+                ¦   
+                +---Exception
+                ¦       ExceptionInterface.php
+                ¦       InvalidEncodingException.php
+                ¦       InvalidFileException.php
+                ¦       InvalidPathException.php
+                ¦       ValidationException.php
+                ¦       
+                +---Loader
+                ¦       Loader.php
+                ¦       LoaderInterface.php
+                ¦       Resolver.php
+                ¦       
+                +---Parser
+                ¦       Entry.php
+                ¦       EntryParser.php
+                ¦       Lexer.php
+                ¦       Lines.php
+                ¦       Parser.php
+                ¦       ParserInterface.php
+                ¦       Value.php
+                ¦       
+                +---Repository
+                ¦   ¦   AdapterRepository.php
+                ¦   ¦   RepositoryBuilder.php
+                ¦   ¦   RepositoryInterface.php
+                ¦   ¦   
+                ¦   +---Adapter
+                ¦           AdapterInterface.php
+                ¦           ApacheAdapter.php
+                ¦           ArrayAdapter.php
+                ¦           EnvConstAdapter.php
+                ¦           GuardedWriter.php
+                ¦           ImmutableWriter.php
+                ¦           MultiReader.php
+                ¦           MultiWriter.php
+                ¦           PutenvAdapter.php
+                ¦           ReaderInterface.php
+                ¦           ReplacingWriter.php
+                ¦           ServerConstAdapter.php
+                ¦           WriterInterface.php
+                ¦           
+                +---Store
+                ¦   ¦   FileStore.php
+                ¦   ¦   StoreBuilder.php
+                ¦   ¦   StoreInterface.php
+                ¦   ¦   StringStore.php
+                ¦   ¦   
+                ¦   +---File
+                ¦           Paths.php
+                ¦           Reader.php
+                ¦           
+                +---Util
+                        Regex.php
+                        Str.php
+                        
